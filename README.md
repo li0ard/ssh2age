@@ -33,7 +33,6 @@ ssh2age also supports multiple public keys at once seperated by newlines and ign
 
 ```console
 $ curl "https://github.com/orlp.keys" | ssh2age
-# eve.thalheim.io:22 SSH-2.0-OpenSSH_8.6
 ...
 age1m6tk99c7q84g5luktuwve9d7pjz5zdfq7gt7w2rugc9nyn38eamqykdkh9
 age164qlju7r0wwvuxgwam328rrk732scce7ds3ktlg5pw57yx5qlywqusqup4
